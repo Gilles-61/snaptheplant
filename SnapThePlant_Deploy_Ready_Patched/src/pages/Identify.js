@@ -1,1 +1,0 @@
-// Plant identification page

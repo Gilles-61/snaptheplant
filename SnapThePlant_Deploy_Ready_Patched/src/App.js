@@ -1,1 +1,0 @@
-// Main app logic with navigation and routing

@@ -1,1 +1,0 @@
-// Emoji nav bar component
